@@ -1,9 +1,9 @@
 Package: bmi_calculator
 Type: Package
-Title: What the package does (short line)
+Title: BMI Calculator
 Version: 1.0
 Date: 2014-06-25
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Florian Griese <fgriese@diw.de>
+Maintainer: Florian Griese <fgriese@diw.de>
+Description: BMI Calculator...
+License: none
